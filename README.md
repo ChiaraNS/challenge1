@@ -1,6 +1,7 @@
 # Code Refactor Starter Code
 
-![generator](https://user-images.githubusercontent.com/87394571/131281188-5eb0caf8-c4ab-4c74-96f3-07ac615fb7ee.png)
+![Screenshot (33)](https://user-images.githubusercontent.com/87394571/133027803-8a1b88e0-082e-4ed2-ba63-5232d06fa5d6.png)
+
 ## Table of contents
 * [Horiseon Webpage](https://chiarans.github.io/passwordGenerator/)
 * [General info](#general-info)
