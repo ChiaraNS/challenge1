@@ -3,7 +3,7 @@
 ![Screenshot (33)](https://user-images.githubusercontent.com/87394571/133027803-8a1b88e0-082e-4ed2-ba63-5232d06fa5d6.png)
 
 ## Table of contents
-* [Horiseon Webpage](https://chiarans.github.io/passwordGenerator/)
+* [Horiseon Webpage](https://chiarans.github.io/challenge1/)
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Helpful Links](#helpful-links)
